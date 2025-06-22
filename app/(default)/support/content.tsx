@@ -29,10 +29,10 @@ export default function SupportContent() {
                 <div className="grow">
                   <header>
                     <h2 className="h4 font-playfair-display mb-2">
-                      <a className="text-slate-800 hover:underline hover:decoration-blue-100" href="#0">Getting Started with Tidy</a>
+                      <a className="text-slate-800 hover:underline hover:decoration-blue-100" href="#0">Getting Started with Rizz</a>
                     </h2>
                   </header>
-                  <p className="text-slate-500 mb-4">New to Tidy or feeling a little lost? Start here ;)</p>
+                  <p className="text-slate-500 mb-4">New to Rizz or feeling a little lost? Start here ;)</p>
                   <footer className="flex items-center">
                     <div className="flex shrink-0 -space-x-3 -ml-0.5 mr-3">
                       <Image className="rounded-full border-2 border-white box-content" src={AvatarImage01} width={32} height={32} alt="Avatar 01" />
@@ -119,7 +119,7 @@ export default function SupportContent() {
                       <a className="text-slate-800 hover:underline hover:decoration-blue-100" href="#0">API</a>
                     </h2>
                   </header>
-                  <p className="text-slate-500 mb-4">Find the most commonly asked questions about Tidy's API</p>
+                  <p className="text-slate-500 mb-4">Find the most commonly asked questions about Rizz's API</p>
                   <footer className="flex items-center">
                     <div className="flex shrink-0 -space-x-3 -ml-0.5 mr-3">
                       <Image className="rounded-full border-2 border-white box-content" src={AvatarImage01} width={32} height={32} alt="Avatar 01" />
@@ -146,7 +146,7 @@ export default function SupportContent() {
                       <a className="text-slate-800 hover:underline hover:decoration-blue-100" href="#0">Other Tools</a>
                     </h2>
                   </header>
-                  <p className="text-slate-500 mb-4">Tutorials, FAQs and best practices with tools like Tidy Pro, Tidy Tracker, and more.</p>
+                  <p className="text-slate-500 mb-4">Tutorials, FAQs and best practices with tools like Rizz Pro, Rizz Tracker, and more.</p>
                   <footer className="flex items-center">
                     <div className="flex shrink-0 -space-x-3 -ml-0.5 mr-3">
                       <Image className="rounded-full border-2 border-white box-content" src={AvatarImage01} width={32} height={32} alt="Avatar 01" />

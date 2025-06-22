@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Wall of Love - Tidy',
+  title: 'Wall of Love - Rizz',
   description: 'Page description',
 }
 

@@ -26,9 +26,9 @@ export default function Customers() {
               {/* Content */}
               <div className="md:min-w-[30rem]" data-aos="fade-left">
                 <h2 className="h3 md:text-4xl font-playfair-display mb-4">
-                  <Link className="text-slate-800 hover:underline hover:decoration-blue-100" href="/wall-of-love//wall-of-love-single">Black Inc.</Link>
+                  <Link className="text-slate-800 hover:underline hover:decoration-blue-100" href="/wall-of-love//wall-of-love-single">Rizz Inc.</Link>
                 </h2>
-                <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Award-winning design firm Black Inc. didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
+                <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Award-winning design firm Rizz Inc. didn't get the personalized approach they wanted from colloboration tools - until they met Rizz.</p>
                 <div className="space-y-3">
                   <svg className="fill-blue-600" width="20" height="16" viewBox="0 0 20 16">
                     <path d="M2.76 16c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.613-2.272-1.748-2.272s-2.27.726-3.283 1.64C3.16 6.439 5.613 3.346 9.571.885L9.233 0C3.466 2.903 0 7.732 0 12.213 0 14.517.828 16 2.76 16Zm10.43 0c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.614-2.272-1.749-2.272-1.135 0-2.27.726-3.282 1.64.276-2.934 2.73-6.027 6.687-8.488L19.663 0c-5.767 2.903-9.234 7.732-9.234 12.213 0 2.304.829 3.787 2.761 3.787Z" />
@@ -42,7 +42,7 @@ export default function Customers() {
                   <div className="font-medium">
                     <a className="text-slate-800 hover:text-blue-600 transition duration-150 ease-in-out" href="#0">Christine Duck</a>
                     <span className="text-slate-300"> · </span>
-                    <span className="text-slate-500">CEO, Black Inc.</span>
+                    <span className="text-slate-500">CEO, Rizz Inc.</span>
                   </div>
                 </div>
               </div>
@@ -71,7 +71,7 @@ export default function Customers() {
                 <h2 className="h3 md:text-4xl font-playfair-display mb-4">
                   <Link className="text-slate-800 hover:underline hover:decoration-blue-100" href="/wall-of-love//wall-of-love-single">Leon Fibre S.r.l.</Link>
                 </h2>
-                <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Professional communication studio Leon didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
+                <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Professional communication studio Leon didn't get the personalized approach they wanted from colloboration tools - until they met Rizz.</p>
                 <div className="space-y-3">
                   <svg className="fill-blue-600" width="20" height="16" viewBox="0 0 20 16">
                     <path d="M2.76 16c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.613-2.272-1.748-2.272s-2.27.726-3.283 1.64C3.16 6.439 5.613 3.346 9.571.885L9.233 0C3.466 2.903 0 7.732 0 12.213 0 14.517.828 16 2.76 16Zm10.43 0c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.614-2.272-1.749-2.272-1.135 0-2.27.726-3.282 1.64.276-2.934 2.73-6.027 6.687-8.488L19.663 0c-5.767 2.903-9.234 7.732-9.234 12.213 0 2.304.829 3.787 2.761 3.787Z" />
@@ -114,7 +114,7 @@ export default function Customers() {
                 <h2 className="h3 md:text-4xl font-playfair-display mb-4">
                   <Link className="text-slate-800 hover:underline hover:decoration-blue-100" href="/wall-of-love//wall-of-love-single">CD International</Link>
                 </h2>
-                <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Award-winning design firm Black Inc. didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
+                <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Award-winning design firm Rizz Inc. didn't get the personalized approach they wanted from colloboration tools - until they met Rizz.</p>
                 <div className="space-y-3">
                   <svg className="fill-blue-600" width="20" height="16" viewBox="0 0 20 16">
                     <path d="M2.76 16c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.613-2.272-1.748-2.272s-2.27.726-3.283 1.64C3.16 6.439 5.613 3.346 9.571.885L9.233 0C3.466 2.903 0 7.732 0 12.213 0 14.517.828 16 2.76 16Zm10.43 0c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.614-2.272-1.749-2.272-1.135 0-2.27.726-3.282 1.64.276-2.934 2.73-6.027 6.687-8.488L19.663 0c-5.767 2.903-9.234 7.732-9.234 12.213 0 2.304.829 3.787 2.761 3.787Z" />

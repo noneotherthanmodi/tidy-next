@@ -17,7 +17,7 @@ export default function Faqs() {
             <Accordion title="Can I upgrade or downgrade at any time?" active>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </Accordion>
-            <Accordion title="What are the advantages of the Tidy Advanced Service?">
+            <Accordion title="What are the advantages of the Rizz Advanced Service?">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </Accordion>
             <Accordion title="Are there any commissions in addition to the monthly plans?">

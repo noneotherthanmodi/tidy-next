@@ -2,9 +2,15 @@ const withMDX = require("@next/mdx")();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Configure `pageExtensions` to include MDX files
+  // Required for GitHub Pages (static export)
+  output: "export", // 👈 Add this line
+  trailingSlash: true, // Fixes GitHub Pages routing issues
+  
+  // MDX configuration
   pageExtensions: ["js", "jsx", "mdx", "ts", "tsx"],
-  // Optionally, add any other Next.js config below
+  
+  // Optional: Add assetPrefix if deploying to a subpath (e.g., /repo-name/)
+  assetPrefix: process.env.NODE_ENV === "production" ? "/your-repo-name/" : "", // 👈 Replace with your repo name
 };
 
 module.exports = withMDX(nextConfig);

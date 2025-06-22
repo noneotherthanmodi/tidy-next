@@ -18,8 +18,8 @@ export default function Newsletter() {
                     <path className="fill-blue-600" d="m33.917 14.499-3.94 19.698a1 1 0 0 1-1.58.6l-6.505-4.876 12.025-15.422Z" fillOpacity=".5" fill="#2174EA" />
                   </svg>
                 </div>
-                <h3 className="h4 font-playfair-display text-slate-100 mb-2">Sign up for Tidy Digest</h3>
-                <p className="text-slate-400 mb-6">Stay in the loop with the Tidy industry - get the latest news, stories and tools.</p>
+                <h3 className="h4 font-playfair-display text-slate-100 mb-2">Sign up for Rizz Digest</h3>
+                <p className="text-slate-400 mb-6">Stay in the loop with the Rizz industry - get the latest news, stories and tools.</p>
                 {/* CTA form */}
                 <form className="w-full">
                   <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md">

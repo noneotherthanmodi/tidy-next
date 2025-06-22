@@ -21,7 +21,7 @@ export default function FeaturesTable() {
                 {/* Table header */}
                 <thead>
                   <tr className="text-base sm:text-lg text-slate-800">
-                    <th className="text-xl md:text-2xl whitespace-nowrap font-bold font-playfair-display text-left pr-2 py-4 min-w-[10rem] md:min-w-[24rem]">Tidy Essential</th>
+                    <th className="text-xl md:text-2xl whitespace-nowrap font-bold font-playfair-display text-left pr-2 py-4 min-w-[10rem] md:min-w-[24rem]">Rizz Essential</th>
                     <th className="text-bold text-center px-2 py-4">Essential</th>
                     <th className="text-bold text-center px-2 py-4">Premium</th>
                     <th className="text-bold text-center px-2 py-4">Advanced</th>
@@ -204,7 +204,7 @@ export default function FeaturesTable() {
                 {/* Table header */}
                 <thead>
                   <tr className="text-base sm:text-lg text-slate-800">
-                    <th className="text-xl md:text-2xl whitespace-nowrap font-bold font-playfair-display text-left pr-2 py-4 min-w-[10rem] md:min-w-[24rem]">Tidy Advanced</th>
+                    <th className="text-xl md:text-2xl whitespace-nowrap font-bold font-playfair-display text-left pr-2 py-4 min-w-[10rem] md:min-w-[24rem]">Rizz Advanced</th>
                     <th className="text-bold text-center px-2 py-4 sm:invisible">Essential</th>
                     <th className="text-bold text-center px-2 py-4 sm:invisible">Premium</th>
                     <th className="text-bold text-center px-2 py-4 sm:invisible">Advanced</th>

@@ -9,9 +9,9 @@ export default function WolContent() {
 
           <div className="max-w-3xl mx-auto">
             <div className="text-lg text-slate-500">
-              <h2 className="h3 font-playfair-display text-slate-800 mb-4">About Black Inc.</h2>
+              <h2 className="h3 font-playfair-display text-slate-800 mb-4">About Rizz Inc.</h2>
               <p className="mb-8">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum. Neque sodales ut etiam sit amet how to manage <a className="font-medium text-blue-600 hover:underline" href="#0">Black Inc.</a> malesuada proin libero nunc consequat interdum varius. Quam pellentesque nec nam aliquam sem et tortor consequat. Pellentesque adipiscing commodo elit at imperdiet. Semper auctor neque vitae tempus quam pellentesque nec. Amet dictum sit amet justo donec enim diam. Varius sit amet mattis vulputate enim nulla aliquet porttitor. Odio pellentesque diam volutpat commodo sed. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum. Neque sodales ut etiam sit amet how to manage <a className="font-medium text-blue-600 hover:underline" href="#0">Rizz Inc.</a> malesuada proin libero nunc consequat interdum varius. Quam pellentesque nec nam aliquam sem et tortor consequat. Pellentesque adipiscing commodo elit at imperdiet. Semper auctor neque vitae tempus quam pellentesque nec. Amet dictum sit amet justo donec enim diam. Varius sit amet mattis vulputate enim nulla aliquet porttitor. Odio pellentesque diam volutpat commodo sed. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
               </p>
               <div className="flex justify-center mb-8" aria-hidden="true">
                 <svg className="fill-slate-400" width="36" height="4">
@@ -76,7 +76,7 @@ export default function WolContent() {
               </div>
               <h2 className="h3 font-playfair-display text-slate-800 mb-4">Conclusion</h2>
               <p className="mb-8">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum. Neque sodales ut etiam sit amet how to manage <a className="font-medium text-blue-600 hover:underline" href="#0">Black Inc.</a> Varius sit amet mattis vulputate enim nulla aliquet porttitor. Odio pellentesque diam volutpat commodo.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum. Neque sodales ut etiam sit amet how to manage <a className="font-medium text-blue-600 hover:underline" href="#0">Rizz Inc.</a> Varius sit amet mattis vulputate enim nulla aliquet porttitor. Odio pellentesque diam volutpat commodo.
               </p>
             </div>
           </div>
