@@ -7,8 +7,7 @@
     "predeploy": "npm run build",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "pnpm install --no-frozen-lockfile"
+    "lint": "next lint"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.0",
