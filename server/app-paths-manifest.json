@@ -1,14 +1,14 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/(auth)/reset-password/page": "app/(auth)/reset-password/page.js",
-  "/(default)/about/page": "app/(default)/about/page.js",
-  "/(default)/support/page": "app/(default)/support/page.js",
-  "/(auth)/request-demo/page": "app/(auth)/request-demo/page.js",
-  "/(default)/wall-of-love/page": "app/(default)/wall-of-love/page.js",
-  "/(default)/page": "app/(default)/page.js",
-  "/(auth)/signin/page": "app/(auth)/signin/page.js",
   "/(default)/pricing/page": "app/(default)/pricing/page.js",
+  "/(default)/support/page": "app/(default)/support/page.js",
+  "/(default)/about/page": "app/(default)/about/page.js",
+  "/(default)/page": "app/(default)/page.js",
   "/(default)/wall-of-love/wall-of-love-single/page": "app/(default)/wall-of-love/wall-of-love-single/page.js",
+  "/(auth)/request-demo/page": "app/(auth)/request-demo/page.js",
+  "/(auth)/reset-password/page": "app/(auth)/reset-password/page.js",
+  "/(default)/wall-of-love/page": "app/(default)/wall-of-love/page.js",
+  "/(auth)/signin/page": "app/(auth)/signin/page.js",
   "/(default)/blog/page": "app/(default)/blog/page.js",
   "/(default)/blog/[slug]/page": "app/(default)/blog/[slug]/page.js"
 }
