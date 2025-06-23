@@ -2,20 +2,13 @@ const withMDX = require("@next/mdx")();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Required for static export (GitHub Pages)
-  output: "export",
   
-  // Essential for GitHub Pages routing
-  basePath: "/tidy-next", 
-  trailingSlash: true,    
-  
-  // MDX configuration
+  // Keep these:
+  output: "export", // Only if doing static export
+  trailingSlash: true, // Helps with routing
   pageExtensions: ["js", "jsx", "mdx", "ts", "tsx"],
   
-  // Fixes asset loading on GitHub Pages
-  assetPrefix: process.env.NODE_ENV === "production" ? "/tidy-next/" : "", // 👈 Match repo name
-  
-  // Optional: Image optimization config for static export
+  // Optional for images
   images: {
     unoptimized: true // Required for static exports
   }
